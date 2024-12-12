@@ -31,36 +31,7 @@ Before running the application, ensure you have the following installed on your 
 
 ### Clone the Repository
 
-```bash
+
 git clone https://github.com/your-username/medicine-delivery-app.git
-cd medicine-delivery-app
-Install Dependencies
-Install server-side dependencies:
 
-```bash
-Copy code
-cd server
-npm install
-Install client-side dependencies:
-
-bash
-Copy code
-cd client
-npm install
-Configuration
-Set up MongoDB and configure your database URL in .env for both client and server.
-Set up OSRM API in the .env file (if needed) for routing and search capabilities.
-Running the Application
-To start the server:
-
-bash
-Copy code
-cd server
-npm start
-To start the client:
-
-bash
-Copy code
-cd client
-npm start
 The application will be available at http://localhost:3000.
