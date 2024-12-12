@@ -1,4 +1,4 @@
-# Medicine Delivery Web Application
+![Screenshot 2024-06-26 094147](https://github.com/user-attachments/assets/48159808-eb6a-4455-9c0f-20ddb1c7ad6e)# Medicine Delivery Web Application
 
 This is a full-stack medicine delivery web application built using the MERN (MongoDB, Express.js, React, Node.js) technology stack. The application allows users to search, order, and track medicines efficiently, while offering optimized routing and delivery capabilities through integration with the OSRM API.
 
@@ -28,6 +28,14 @@ Before running the application, ensure you have the following installed on your 
 - [Node.js](https://nodejs.org/en/) (version 14 or higher)
 - [MongoDB](https://www.mongodb.com/try/download/community) (or use a cloud database like MongoDB Atlas)
 - [npm](https://www.npmjs.com/)
+
+### Sample Outputs
+![Screenshot 2024-06-12 205954](https://github.com/user-attachments/assets/82b1cdaa-e439-4cd5-8d42-18dd7391eaac)
+
+![Screenshot 2024-06-26 094147](https://github.com/user-attachments/assets/72cedce2-a877-4204-970f-ea0cd70ce862)
+
+
+![Screenshot 2024-06-26 203701](https://github.com/user-attachments/assets/fffbf094-b95b-4599-bf87-7fc21bc5264c)
 
 ### Clone the Repository
 
