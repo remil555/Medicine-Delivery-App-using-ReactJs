@@ -1,0 +1,159 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #a0c4ff, #ffafcc);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.medicine-listing-page {
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  padding: 10px 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+.header .search-bar {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  margin: 0 20px;
+}
+
+.header .search-bar input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.header .search-bar button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.main {
+  padding: 20px;
+}
+
+.spotlight {
+  margin-bottom: 40px;
+}
+
+.medicine-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.medicine-card {
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  width: 250px;
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.medicine-card:hover {
+  transform: scale(1.05);
+}
+
+.medicine-image {
+  width: 100%;
+  height: 30%;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.medicine-details {
+  text-align: left;
+}
+
+.medicine-info {
+  margin-bottom: 10px;
+}
+
+.medicine-name {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.generic-name {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.manufacturer {
+  font-size: 14px;
+  color: #999;
+  margin-bottom: 10px;
+}
+
+.store-info {
+  background: #f8f8f8;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.store-name {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.store-address {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.price-cart {
+  
+  margin-top: 20px;
+  display: flex;
+  justify-content: right;
+  align-items: end;
+}
+
+.store-price {
+  
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 18px;
+  color: #12340e;
+  font-weight: bold;
+  
+}
+
+.cart-button {
+  background-color: #333;
+  color: #0f0101;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cart-button .icon {
+  width: 24px;
+  height: 24px;
+}

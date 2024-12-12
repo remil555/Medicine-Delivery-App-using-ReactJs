@@ -1,0 +1,145 @@
+
+.app {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.search-bar {
+  flex: 1;
+  max-width: 400px;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 20px;
+  background: linear-gradient(to right, #a8edea, #fed6e3);
+}
+
+.hero-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.text-section h1 {
+  margin: 20px 0;
+  font-size: 2em;
+}
+
+.explore-button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background: #000;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  padding: 50px 20px;
+  background: #f8f8f8;
+}
+
+.footer-section {
+  text-align: left;
+}
+
+.footer-section h2 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 5px;
+}
+
+.footer-section ul li a {
+  color: #000;
+  text-decoration: none;
+}
+
+.social-icons {
+  display: flex;
+}
+
+.social-icon {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #000;
+}
+
+.auth-container {
+  padding: 50px;
+}
+
+.auth-container form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.auth-container input {
+  padding: 10px;
+  font-size: 1em;
+  width: 100%;
+}
+
+.auth-container button {
+  padding: 10px;
+  font-size: 1em;
+  background: #000;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.link-button {
+  background: none;
+  border: none;
+  color: #000;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1;
+}
+
+footer {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}

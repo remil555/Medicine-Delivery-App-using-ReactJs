@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "6664756babfc67a3aa024cbb"
+  },
+  "name": "Downtown Pharmacy",
+  "address": "123 Main St, New York, NY 10001",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -74.006,
+      40.7128
+    ]
+  },
+  "products": [
+    {
+      "name": "Aspirin 100mg",
+      "genericName": "Acetylsalicylic Acid",
+      "manufacturer": "PharmaCorp",
+      "price": 5.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Ibuprofen 200mg",
+      "genericName": "Ibuprofen",
+      "manufacturer": "HealthMed",
+      "price": 6.99,
+      "rating": 4.6
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6664756babfc67a3aa024cbc"
+  },
+  "name": "Uptown Drugstore",
+  "address": "456 Another St, New York, NY 10002",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -74.0055,
+      40.715
+    ]
+  },
+  "products": [
+    {
+      "name": "Aspirin 100mg",
+      "genericName": "Acetylsalicylic Acid",
+      "manufacturer": "PharmaCorp",
+      "price": 6.49,
+      "rating": 4.6
+    },
+    {
+      "name": "Paracetamol 500mg",
+      "genericName": "Acetaminophen",
+      "manufacturer": "BestMed",
+      "price": 4.99,
+      "rating": 4.4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6664756babfc67a3aa024cbd"
+  },
+  "name": "Health First Pharmacy",
+  "address": "789 Different Ave, New York, NY 10003",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -74.0045,
+      40.718
+    ]
+  },
+  "products": [
+    {
+      "name": "Aspirin 300mg",
+      "genericName": "Acetylsalicylic Acid",
+      "manufacturer": "BestMed",
+      "price": 9.99,
+      "rating": 4.8
+    },
+    {
+      "name": "Ibuprofen 400mg",
+      "genericName": "Ibuprofen",
+      "manufacturer": "HealthPlus",
+      "price": 8.99,
+      "rating": 4.7
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6664756babfc67a3aa024cbe"
+  },
+  "name": "CityCare Pharmacy",
+  "address": "321 Market St, New York, NY 10004",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -74.009,
+      40.71
+    ]
+  },
+  "products": [
+    {
+      "name": "Aspirin 500mg",
+      "genericName": "Acetylsalicylic Acid",
+      "manufacturer": "MedLife",
+      "price": 10.99,
+      "rating": 4.9
+    },
+    {
+      "name": "Paracetamol 500mg",
+      "genericName": "Acetaminophen",
+      "manufacturer": "HealthMed",
+      "price": 5.49,
+      "rating": 4.5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6664756babfc67a3aa024cbf"
+  },
+  "name": "Neighborhood Pharmacy",
+  "address": "654 Local Rd, New York, NY 10005",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -74.002,
+      40.719
+    ]
+  },
+  "products": [
+    {
+      "name": "Aspirin 200mg",
+      "genericName": "Acetylsalicylic Acid",
+      "manufacturer": "WellnessPharma",
+      "price": 7.99,
+      "rating": 4.6
+    },
+    {
+      "name": "Ibuprofen 200mg",
+      "genericName": "Ibuprofen",
+      "manufacturer": "PharmaCorp",
+      "price": 6.79,
+      "rating": 4.4
+    }
+  ]
+}]

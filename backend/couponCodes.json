@@ -1,0 +1,63 @@
+[
+    {
+      "code": "SAVE10",
+      "store": "6664756babfc67a3aa024cbb",
+      "discount": 10,
+      "status": "not used"
+    },
+    {
+      "code": "DISCOUNT20",
+      "store": "6664756babfc67a3aa024cbc",
+      "discount": 20,
+      "status": "not used"
+    },
+    {
+      "code": "SALE15",
+      "store": "6664756babfc67a3aa024cbb",
+      "discount": 15,
+      "status": "not used"
+    },
+    {
+      "code": "PROMO5",
+      "store": "6664756babfc67a3aa024cbf",
+      "discount": 5,
+      "status": "not used"
+    },
+    {
+      "code": "OFFER25",
+      "store": "6664756babfc67a3aa024cbb",
+      "discount": 25,
+      "status": "not used"
+    },
+    {
+      "code": "WELCOME50",
+      "store": "6664756babfc67a3aa024cbf",
+      "discount": 50,
+      "status": "not used"
+    },
+    {
+      "code": "NEWYEAR30",
+      "store": "6664756babfc67a3aa024cbc",
+      "discount": 30,
+      "status": "not used"
+    },
+    {
+      "code": "SUMMER20",
+      "store": "6664756babfc67a3aa024cbe",
+      "discount": 20,
+      "status": "not used"
+    },
+    {
+      "code": "WINTER15",
+      "store": "6664756babfc67a3aa024cbb",
+      "discount": 15,
+      "status": "not used"
+    },
+    {
+      "code": "FALL10",
+      "store": "6664756babfc67a3aa024cbe",
+      "discount": 10,
+      "status": "not used"
+    }
+  ]
+  
