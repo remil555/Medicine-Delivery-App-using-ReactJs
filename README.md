@@ -1,4 +1,4 @@
-# Medicine Delivery Web Application
+# E-Pharmacy App using ReactJs
 
 This is a full-stack medicine delivery web application built using the MERN (MongoDB, Express.js, React, Node.js) technology stack. The application allows users to search, order, and track medicines efficiently, while offering optimized routing and delivery capabilities through integration with the OSRM API.
 
